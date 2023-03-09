@@ -2,6 +2,8 @@
 
 [![MSBuild](https://github.com/illusion0001/Windows-Game-Patches/actions/workflows/msbuild.yml/badge.svg?branch=main)](https://github.com/illusion0001/Windows-Game-Patches/actions/workflows/msbuild.yml)
 
+[Latest Release](/../../../../illusion0001/Windows-Game-Patches/releases/latest)
+
 # Patches
 
 - **Bright Memory: Infinite**
